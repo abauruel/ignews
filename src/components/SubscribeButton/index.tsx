@@ -8,7 +8,7 @@ export function SubscribeButton({priceId}: SubscribeButtonProps){
         <button
             type="button"
             className={styles.subscribeButton}
-           
+     
         >
             Subscribe now
         </button>
