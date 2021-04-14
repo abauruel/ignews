@@ -17,6 +17,7 @@ export default function Home({product}:HomeProps) {
     <>
      <Head>
        <title>Home | Ig.news</title>
+      <link rel="shortcut icon" href="./images/favicon.png"/>
      </Head>
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
